@@ -1,0 +1,12 @@
+com\bibliotech\book\repository\BookRepository.class
+com\bibliotech\book\dto\BookRequest.class
+com\bibliotech\book\BookServiceApplication.class
+com\bibliotech\book\entity\Book.class
+com\bibliotech\book\config\JwtAuthenticationFilter.class
+com\bibliotech\book\dto\BookResponse.class
+com\bibliotech\book\config\SecurityConfig.class
+com\bibliotech\book\config\BookDataInitializer.class
+com\bibliotech\book\controller\BookController.class
+com\bibliotech\book\service\BookService.class
+com\bibliotech\book\exception\GlobalExceptionHandler.class
+com\bibliotech\book\dto\AvailabilityResponse.class

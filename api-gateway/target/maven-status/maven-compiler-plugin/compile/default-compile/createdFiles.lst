@@ -1,0 +1,3 @@
+com\bibliotech\gateway\config\CorsConfig.class
+com\bibliotech\gateway\ApiGatewayApplication.class
+com\bibliotech\gateway\filter\JwtAuthenticationFilter.class
